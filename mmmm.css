@@ -1,0 +1,57 @@
+p,a:hover {
+    color: white;
+}
+div {
+    border: 1px;
+    margin-top: 0px;
+    margin-bottom: 18px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+body {
+    background-image: url("3d-purple-flower-field-wallpaper.jpg");
+}
+footer {
+	border: 1px;
+	margin-top: 180px;
+}
+h2 {
+color: #C40000;
+margin-right: 150px;
+font-family: Comic Sans MS;
+font-size: 80px;
+font-weight: 900;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 40px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+border-radius: 28px;
+    padding: 2px; 
+    width: 250px;
+    height: 50px; 
+    background-color: #C40000;
+    color: white;
+    border: none;
+    transition: width 0.5s;
+    cursor: pointer;
+}
+button:hover {
+    width: 260px;
+background-color: #6C132B;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
